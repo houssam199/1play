@@ -1,6 +1,6 @@
-token=NDg4NzMzODk1MDY4NjE0NjY5.Dnggug.frEqRvqmCzXDl2juFmozcdstwVU
+token=NDk1Nzg4NjUyNzc4MDk0NTky.DpHLCA.JMCx0qc6zB3lBigWvzJhtYlchiA
 owner=464046823162511400
-prefix=1
-game=Tybe 1help
+prefix=SR
+game=Tybe SRhelp
 stayinchannel=true
 songinstatus=true
